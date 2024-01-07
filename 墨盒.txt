@@ -1,58 +1,58 @@
 {
-  "蜘蛛": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-  "wallpaper": "http://饭太硬.top/探索色谱/api.php",
-  “网站”：[
+  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8c6fadafee20b3780e602f8f52c7cc92",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
     {
       "key": "小海酷玩",
       "name": "黑盒",
-      “类型”：3，
+      "type": 3,
       "api": "csp_DouDou",
-      “可搜索”：0，
-      “快速搜索”：0，
-      “可过滤”：0
-    } ,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "玩偶哥哥",
       "name": "👽玩偶哥哥┃4K",
-      “类型”：3，
-      “api”：“csp_WoGG”，
-      “可搜索”：1，
-      “快速搜索”：1，
-      “变量”：0，
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "骑骑",
       "name": "🏇‍骑骑",
-      “类型”：3，
+      "type": 3,
       "api": "csp_AppYsV2",
-      “可搜索”：1，
-      “快速搜索”：1，
-      “可过滤”：1，
-      “ext”：“https://www.gsjtlxy.top/xgapp.php/v3/”
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
     {
       "key": "影探",
       "name": " 🕵┃影探┃影视",
-      “类型”：3，
-      “api”：“https://d.kstore.space/download/6296/js/lib/drpy2.min.js”，
-      “ext”：“https://d.kstore.space/download/6296/js/yt.js”
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
-{
-      "key": "扫火",
+ {
+      "key": "saohuo",
       "name": "🔥骚火┃直连",
-      “类型”：3，
-      “可搜索”：1，
-      “变量”：0，
-      “快速搜索”：1，
-      “玩家类型”：“2”，
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "playerType": "2",
       "jar": "http://luoye.shop/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-      “api”：“csp_XBPQ”，
-      “分机”：{
+      "api": "csp_XBPQ",
+      "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
         "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
         "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-        " 吞吐量二次截取": "class=\"v_list\">&&</ul>",
+        "数组二次截取": "class=\"v_list\">&&</ul>",
         "数组": "\"v_img\"&&/div>",
         "标题": "title=\"&&\"",
         "副标题": "v_note\"&&</div",
